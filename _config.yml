@@ -62,3 +62,5 @@ gems:
   - jemoji
 paginate_path: "/posts/page/:num/"
 permalink: posts/:slug
+
+theme: jekyll-theme-minimal
