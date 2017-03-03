@@ -63,4 +63,4 @@ gems:
 paginate_path: "/posts/page/:num/"
 permalink: posts/:slug
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile
